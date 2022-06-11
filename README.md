@@ -1,4 +1,4 @@
-# Data-Presentation---Lab
+# Data-Presentation-Lab
 ## Research Question
 
 Study the given dataset then provide recommendations on how to mitigate the risk of defaults. 
