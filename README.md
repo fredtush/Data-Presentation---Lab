@@ -11,3 +11,5 @@ The loan data set contains 113,937 loans with 81 variables on each loan, includi
  **Loan Dataset [https://pages.github.com/](https://raw.githubusercontent.com/jubins/Tableau-Projects/master/ProsperLoanData/data/prosperLoanData.csv)**
 
  **Loan Data - VariableDefinitions [dataset](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/ProsperLoanData-VariableDefinitions.csv)**
+ 
+ Here s the link to my tableau workbook : [Data Presentation-Lab WK4D4 Workbook](https://public.tableau.com/views/DataPresentation-Lab/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link)
